@@ -1,5 +1,8 @@
 target/
 Cargo.lock
+temp_auto_push.bat
 *.wasm
 scripts/.deploy-state
 test_snapshots/
+.gitignore
+branch_structure.json
